@@ -1,0 +1,16 @@
+{
+    "app": {
+        "name": "SirDNS",
+        "version": "2.1.0",
+        "minimum_version": "2.0.0",
+        "latest_pkg": "https://github.com/ravagegamer74-design/SirDNS/releases/latest/download/SirDNS.pkg"
+    },
+    "dns": {
+        "version": 1,
+        "profiles": "https://raw.githubusercontent.com/ravagegamer74-design/SirDNS/main/profiles.json"
+    },
+    "news": {
+        "title": "Bienvenue !",
+        "message": "Bienvenue sur SirDNS V2."
+    }
+}
