@@ -6,8 +6,8 @@
         "latest_pkg": "https://github.com/ravagegamer74-design/SirDNS/releases/latest/download/SirDNS.pkg"
     },
     "dns": {
-        "version": 1,
-        "profiles": "https://raw.githubusercontent.com/ravagegamer74-design/SirDNS/main/profiles.json"
+        "version": 1.0.0,
+        "profiles": "https://raw.githubusercontent.com/ravagegamer74-design/SirDNS/main/profiles.csv"
     },
     "news": {
         "title": "Bienvenue !",
