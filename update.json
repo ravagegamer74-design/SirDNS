@@ -1,5 +1,5 @@
 {
-    "version": "3.0.0",
+    "version": "3.1.0",
     "message": "Correction de bugs et amélioration de l'interface. Ajout d'un onglet rechercher (carré)",
     "mandatory": false,
     "latest_pkg": "https://github.com/ravagegamer74-design/SirDNS/releases/latest/download/SirDNS.pkg",
