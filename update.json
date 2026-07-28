@@ -1,6 +1,6 @@
 {
-    "version": "3.0.0",
-    "message": "Correction de bugs et amélioration de l'interface. Ajout d'un onglet rechercher (carré)",
+    "version": "3.1.0",
+    "message": "Recherche intelligente, interface amelioree et telechargement des mises a jour directement depuis la PS3.",
     "mandatory": false,
     "latest_pkg": "https://github.com/ravagegamer74-design/SirDNS/releases/latest/download/SirDNS.pkg",
     "profiles_version": "1.1.0",
