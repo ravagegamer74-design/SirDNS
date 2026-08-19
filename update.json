@@ -1,5 +1,5 @@
 {
-    "version": "3.1.0",
+    "version": "3.2.0",
     "message": "Recherche intelligente, interface amelioree et telechargement des mises a jour directement depuis la PS3.",
     "mandatory": false,
     "latest_pkg": "https://github.com/ravagegamer74-design/SirDNS/releases/latest/download/SirDNS.pkg",
