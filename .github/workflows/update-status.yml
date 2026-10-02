@@ -32,7 +32,7 @@ jobs:
         run: python scripts/psrewired_status.py
 
       - name: Update Project NEXUS status
-  run: python scripts/nexus_status.py
+        run: python scripts/nexus_status.py
 
       - name: Commit status.json
         run: |
