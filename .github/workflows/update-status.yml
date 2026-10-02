@@ -27,8 +27,6 @@ jobs:
 
       - name: Commit status.json
         run: |
-                - name: Commit status.json
-        run: |
           git config user.name "SirDNS Bot"
           git config user.email "actions@github.com"
           git add status.json
