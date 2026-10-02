@@ -3,12 +3,48 @@
     "online": true,
     "players": 0,
     "games": 0,
-    "updated": "2026-10-02T08:58:01.349437+00:00"
+    "updated": "2026-10-02T09:07:20.282222+00:00"
   },
   "Killzone 2": {
     "online": true,
     "players": 0,
     "games": 0,
-    "updated": "2026-10-02T08:58:01.923543+00:00"
+    "updated": "2026-10-02T09:07:20.743692+00:00"
+  },
+  "Killzone 3": {
+    "online": true,
+    "players": 3,
+    "games": 1,
+    "updated": "2026-10-02T09:07:20.960870+00:00"
+  },
+  "Resistance: Fall of Man": {
+    "online": true,
+    "players": 1,
+    "games": 1,
+    "updated": "2026-10-02T09:07:21.238927+00:00"
+  },
+  "Resistance 2": {
+    "online": true,
+    "players": 2,
+    "games": 0,
+    "updated": "2026-10-02T09:07:21.439758+00:00"
+  },
+  "MotorStorm": {
+    "online": true,
+    "players": 0,
+    "games": 0,
+    "updated": "2026-10-02T09:07:21.641599+00:00"
+  },
+  "MotorStorm Pacific Rift": {
+    "online": true,
+    "players": 0,
+    "games": 0,
+    "updated": "2026-10-02T09:07:21.933676+00:00"
+  },
+  "SOCOM Confrontation": {
+    "online": true,
+    "players": 0,
+    "games": 0,
+    "updated": "2026-10-02T09:07:22.079209+00:00"
   }
 }
