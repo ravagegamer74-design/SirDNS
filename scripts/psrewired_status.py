@@ -10,11 +10,17 @@ STATUS_FILE = Path("status.json")
 PSREWIRED_GAMES = {
     "Killzone 2": 21784,
     "Killzone 3": 23044,
+
     "Resistance: Fall of Man": 20174,
     "Resistance 2": 21734,
+
     "MotorStorm": 20764,
     "MotorStorm Pacific Rift": 21624,
+    "MotorStorm Apocalypse": 22500,
+
     "SOCOM Confrontation": 21094,
+
+    "NBA '07": 20244,
 }
 
 PLAYERS_URL = "https://api.psrewired.com/us/api/universes/players"
