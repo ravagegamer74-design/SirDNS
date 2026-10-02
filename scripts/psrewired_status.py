@@ -21,6 +21,8 @@ PSREWIRED_GAMES = {
     "SOCOM Confrontation": 21094,
 
     "NBA '07": 20244,
+
+    "PlayStation Home": 20374,
 }
 
 PLAYERS_URL = "https://api.psrewired.com/us/api/universes/players"
