@@ -22,8 +22,14 @@ jobs:
         with:
           python-version: "3.x"
 
+      - name: Install dependencies
+        run: pip install requests
+
       - name: Update Warhawk status
         run: python scripts/warhawk_status.py
+
+      - name: Update PS Rewired status
+        run: python scripts/psrewired_status.py
 
       - name: Commit status.json
         run: |
