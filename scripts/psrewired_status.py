@@ -9,7 +9,12 @@ STATUS_FILE = Path("status.json")
 
 PSREWIRED_GAMES = {
     "Killzone 2": 21784,
-    # On ajoutera les autres jeux ici après validation.
+    "Killzone 3": 23044,
+    "Resistance: Fall of Man": 20174,
+    "Resistance 2": 21734,
+    "MotorStorm": 20764,
+    "MotorStorm Pacific Rift": 21624,
+    "SOCOM Confrontation": 21094,
 }
 
 PLAYERS_URL = "https://api.psrewired.com/us/api/universes/players"
