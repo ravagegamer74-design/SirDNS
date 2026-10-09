@@ -3,96 +3,96 @@
     "online": true,
     "players": 0,
     "games": 0,
-    "updated": "2026-10-09T01:21:21.900607+00:00"
+    "updated": "2026-10-09T07:29:03.979865+00:00"
   },
   "Killzone 2": {
     "online": true,
-    "players": 3,
-    "games": 1,
-    "updated": "2026-10-09T01:21:22.718194+00:00"
+    "players": 0,
+    "games": 0,
+    "updated": "2026-10-09T07:29:04.500786+00:00"
   },
   "Killzone 3": {
     "online": true,
-    "players": 4,
+    "players": 1,
     "games": 1,
-    "updated": "2026-10-09T01:21:23.016253+00:00"
+    "updated": "2026-10-09T07:29:04.648228+00:00"
   },
   "Resistance: Fall of Man": {
     "online": true,
-    "players": 4,
-    "games": 1,
-    "updated": "2026-10-09T01:21:23.239116+00:00"
+    "players": 0,
+    "games": 0,
+    "updated": "2026-10-09T07:29:04.864721+00:00"
   },
   "Resistance 2": {
     "online": true,
-    "players": 5,
+    "players": 4,
     "games": 0,
-    "updated": "2026-10-09T01:21:23.522108+00:00"
+    "updated": "2026-10-09T07:29:05.132727+00:00"
   },
   "MotorStorm": {
     "online": true,
     "players": 0,
     "games": 0,
-    "updated": "2026-10-09T01:21:23.721581+00:00"
+    "updated": "2026-10-09T07:29:05.349457+00:00"
   },
   "MotorStorm Pacific Rift": {
     "online": true,
-    "players": 1,
-    "games": 1,
-    "updated": "2026-10-09T01:21:23.904507+00:00"
+    "players": 0,
+    "games": 0,
+    "updated": "2026-10-09T07:29:05.555435+00:00"
   },
   "MotorStorm Apocalypse": {
     "online": true,
     "players": 1,
     "games": 1,
-    "updated": "2026-10-09T01:21:24.124096+00:00"
+    "updated": "2026-10-09T07:29:05.704445+00:00"
   },
   "SOCOM Confrontation": {
     "online": true,
-    "players": 7,
-    "games": 1,
-    "updated": "2026-10-09T01:21:24.366280+00:00"
+    "players": 0,
+    "games": 0,
+    "updated": "2026-10-09T07:29:05.906481+00:00"
   },
   "NBA '07": {
     "online": true,
     "players": 0,
     "games": 0,
-    "updated": "2026-10-09T01:21:24.588401+00:00"
+    "updated": "2026-10-09T07:29:06.050944+00:00"
   },
   "PlayStation Home": {
     "online": true,
     "players": 0,
     "games": 0,
-    "updated": "2026-10-09T01:21:24.778793+00:00"
+    "updated": "2026-10-09T07:29:06.316457+00:00"
   },
   "WWE 2K14": {
     "online": true,
     "players": 6,
     "games": null,
-    "updated": "2026-10-09T01:21:25.128344+00:00"
+    "updated": "2026-10-09T07:29:06.671104+00:00"
   },
   "WWE '13": {
     "online": true,
-    "players": 0,
+    "players": 2,
     "games": null,
-    "updated": "2026-10-09T01:21:25.128344+00:00"
+    "updated": "2026-10-09T07:29:06.671104+00:00"
   },
   "WWE '12": {
     "online": true,
     "players": 0,
     "games": null,
-    "updated": "2026-10-09T01:21:25.128344+00:00"
+    "updated": "2026-10-09T07:29:06.671104+00:00"
   },
   "Lucha AAA": {
     "online": true,
     "players": 0,
     "games": null,
-    "updated": "2026-10-09T01:21:25.128344+00:00"
+    "updated": "2026-10-09T07:29:06.671104+00:00"
   },
   "TNA iMPACT!": {
     "online": true,
     "players": 0,
     "games": null,
-    "updated": "2026-10-09T01:21:25.128344+00:00"
+    "updated": "2026-10-09T07:29:06.671104+00:00"
   }
 }
